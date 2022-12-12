@@ -1,0 +1,105 @@
+.headerDiv {
+  padding: 10px;
+  background:#99ffff;
+  text-align: center;
+  
+  
+}
+.headerDiv img {
+  width: 70px;
+  float: left;
+}
+.headerDiv div {
+  
+  font-family: 'Cormorant', Dosis;
+  font-weight: 700;
+  display: block;
+  margin-top: 30px;
+}
+.headerDiv div a {
+  padding: 5rem;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+#poster {
+  height: 500px;
+  margin: auto;
+  border-radius: 25px;
+}
+.listDiv {
+  /* background: #b3d9ff; */
+  width: 400px;
+  height: 500px
+  
+}
+#divList {
+  border-radius: 25px;
+}
+.listDiv ul {
+  list-style-type: none;
+  list-style-position: outside;
+  padding: 0;
+  text-align: center;
+  border-left: solid 2px blanchedalmond;
+}
+#title {
+  text-transform: uppercase;
+}
+body {
+  background-image: url("https://images.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg?auto=compress&cs=tinysrgb&w=1600");
+  max-height: 1000px;
+}
+.cardBg {
+  background: blueviolet;
+  padding: 10px;
+  height: 400px;
+  border-radius: 25px;
+}
+.cardBg header {
+  background: goldenrod;
+  border-radius: 25px;
+  text-align: center;
+  font-weight: 1000;
+}
+.cardBg .content {
+  background: greenyellow;
+  margin-top: 10px;
+
+}
+.cardBg .extra-content {
+  
+  margin-top: 10px;
+
+}
+.cardBg .extra-content button {
+  color: black;
+  background: orangered;
+  height: 40px;
+  position: relative;
+  border-radius: 25px;
+  
+}
+.container {
+  margin-top: 90px;
+}
+.film-item {
+  border-color: black;
+  margin-top: 5px;
+  background: #b3ffb3;
+  font-weight: 500;
+}
+span {
+  color: #b3ffb3;
+}
+#ticket-num {
+  color: black;
+  font-weight: 1000;
+}
+.deleteBtn {
+  background: #ff1a1a;
+  border-radius: 25px;
+  
+}
+

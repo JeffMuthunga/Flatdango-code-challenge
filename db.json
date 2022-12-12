@@ -1,0 +1,145 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "title": "John Wick: Chapter 4",
+      "runtime": "108",
+      "capacity": 29,
+      "showtime": "04:00PM",
+      "tickets_sold": 29,
+      "description": "John Wick (Keanu Reeves) uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2021/05/F2776685-B2E1-4B3C-915C-4F4D6970E98F-400x600.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Black Panther: Wakanda Forever",
+      "runtime": "93",
+      "capacity": 50,
+      "showtime": "09:30PM",
+      "tickets_sold": 50,
+      "description": "In Marvel Studios “Black Panther: Wakanda Forever,” Queen Ramonda (Angela Bassett), Shuri (Letitia Wright), MBaku (Winston Duke), Okoye (Danai Gurira) and the Dora Milaje (including Florence Kasumba), fight to protect their nation from intervening world powers in the wake of King TChallas death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia (Lupita Nyongo) and Everett Ross (Martin Freeman) and forge a new path for the kingdom of Wakanda. Introducing Tenoch Huerta as Namor, king of a hidden undersea nation, the film also stars Dominique Thorne, Michaela Coel, Mabel Cadena and Alex Livanalli.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2021/05/wakanda-forever-poster-1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Babylon ",
+      "runtime": "131",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "tickets_sold": 31,
+      "description": "A tale of outsized ambition and outrageous excess, it traces the rise and fall of multiple characters during an era of unbridled decadence and depravity in early Hollywood.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/03/babylon-poster-1-400x600.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Avatar: The Way of Water",
+      "runtime": "196",
+      "capacity": 50,
+      "showtime": "03:30PM",
+      "tickets_sold": 45,
+      "description": "The tale begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive,  and the tragedies they endure.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/01/avatar-2-poster-1-400x600.jpg"
+    },
+    {
+      "id": "6",
+      "title": "The Devil Conspiracy",
+      "runtime": "112",
+      "capacity": 30,
+      "showtime": "10:30PM",
+      "tickets_sold": 30,
+      "description": "A powerful biotech company has breakthrough technology allowing them to clone history's most influential people with just a few fragments of DNA. Behind this company is a cabal of Satanists that steals the shroud of Christ putting them in possession of Jesus' DNA. The clone will serve as the ultimate offering to the devil. Archangel Michael comes to earth and will stop at nothing to end the devil's conspiracy.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/11/the-devil-conspiracy-1.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "runtime": "134",
+      "capacity": 30,
+      "showtime": "07:30PM",
+      "tickets_sold": 23,
+      "description": "In Marvel Studios “Guardians of the Galaxy Vol. 3” our beloved band of misfits are looking a bit different these days. Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2021/05/guardians-of-the-galaxy-3-poster-400x600.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Transformers: Rise of the Beasts",
+      "runtime": "115",
+      "capacity": 40,
+      "showtime": "08:30PM",
+      "tickets_sold": 34,
+      "description": "Returning to the action and spectacle that first captured moviegoers around the world 14 years ago with the original Transformers, Transformers: Rise of the Beasts will take audiences on a ‘90s globetrotting adventure and introduce the Maximals, Predacons, and Terrorcons to the existing battle on earth between Autobots and Decepticons.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BN2FkOWQ3YzItNmNhZi00ZWNlLThjYTMtZWIyZDc2YjQzMjk3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+      "id": "9",
+      "title": "The Little Mermaid",
+      "runtime": "99",
+      "capacity": 40,
+      "showtime": "07:30PM",
+      "tickets_sold": 29,
+      "description": "A re-enacment of the disney movie.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2019/07/the-little-mermaid-poster.jpg"
+    },
+    {
+      "id": "10",
+      "title": "The School For Good And Evil",
+      "runtime": "122",
+      "capacity": 50,
+      "showtime": "10:00PM",
+      "tickets_sold": 46,
+      "description": "Best friends Sophie and Agatha find themselves on opposing sides of a modern fairy tale when they're swept away into an enchanted school where young heroes and villains are trained to protect the balance of good and evil.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/06/school-for-good-and-evil-poster.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Violent Night",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "06:00PM",
+      "tickets_sold": 30,
+      "description": "A team of elite mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage. But the team isn't prepared for a surprise combatant: Santa Claus (Harbour) is on the grounds, and he's about to show why this Nick is no saint.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/03/violent-night-poster-400x600.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Glass Onion: A Knives Out Mystery",
+      "runtime": "104",
+      "capacity": 30,
+      "showtime": "07:00PM",
+      "tickets_sold": 30,
+      "description": "In the follow up to Rian Johnson's KNIVES OUT, Detective Benoit Blanc travels to Greece to peel back the layers of a mystery involving a new cast of colorful suspects.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/06/glass-onion-poster.jpg",
+      "showing_id": "12"
+    },
+    {
+      "id": "13",
+      "title": "Dead For a Dollar",
+      "runtime": "100",
+      "capacity": 40,
+      "showtime": "09:00PM",
+      "tickets_sold": 31,
+      "description": "Veteran bounty hunter Max Borlund is deep into Mexico where he encounters professional gambler and outlaw Joe Cribbens – a sworn enemy he sent to prison years before. Max is on a mission to find and return Rachel Kidd, the wife of a wealthy businessman, who as the story is told to Max, has been abducted by Buffalo Soldier Elijah Jones. Max is ultimately faced with a showdown to save honor.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/08/dead-for-a-dollar-small-400x600.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Devotion",
+      "runtime": "111",
+      "capacity": 50,
+      "showtime": "08:00PM",
+      "tickets_sold": 40,
+      "description": "Devotion, an aerial war epic based on the bestselling book of the same name, tells the harrowing true story of two elite US Navy fighter pilots during the Korean War. Their heroic sacrifices would ultimately make them the Navy's most celebrated wingmen. Directed by: JD Dillard Screenplay by: Jake Crane & Jonathan A. H. Stewart Based on the book by: Adam Makos",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/08/devotion-poster-400x600.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Salem's Lot",
+      "runtime": "98",
+      "capacity": 50,
+      "showtime": "04:45PM",
+      "tickets_sold": 33,
+      "description": "A new update of the Stephen King horror classic about small-town vampires.",
+      "poster": "https://www.joblo.com/wp-content/uploads/2022/07/salems-lot.jpg"
+    }
+  ]
+}
